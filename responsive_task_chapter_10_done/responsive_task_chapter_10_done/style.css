@@ -72,20 +72,33 @@ main{
   }
 }*/
 @media screen and (max-width:768px) {
-   main{width:90%;
+   main{width:100%;
    	margin:0 auto;
-   	padding: 90px  0pc;
+   	padding: 50px  0pc;
    }
   .box{
   	float:none;
   	margin:0 auto;
+  	width:90%;
   }
   .box:nth-child(3){
 	margin:0 auto;
 }
   .box:nth-child(2){
 	margin: 20px auto;
-	}}
+	}
+.image-setting1{
+	width: 90%;
+	}
+
+.image-setting2{
+	width: 90%;
+}
+
+.image-setting3{
+	width: 90%;
+	}
+}
 
 
 
